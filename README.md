@@ -1,0 +1,1 @@
+Word Counter is a command-line tool designed to accurately count the number of words in a given text. It is useful for writers, students, and researchers who want to track the word count of their documents.# word-counter
